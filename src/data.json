@@ -1,7 +1,7 @@
 {
     "products":[
         {
-            "_id":"item1",
+            "_id":"dress1",
             "image":"/images/item1.jpg",
             "title":"Printed Wrap Dress",
             "description":"Women Black & Pink Printed Wrap Dress",
@@ -9,7 +9,7 @@
             "price":"₹1199"
         },
         {
-            "_id":"item2",
+            "_id":"dress2",
             "image":"/images/item2.jpg",
             "title":"A-Line Dress",
             "description":"Women Black Floral Printed One Shoulder A-Line Dress",
@@ -17,7 +17,7 @@
             "price":"₹1000"
         },
         {
-            "_id":"item3",
+            "_id":"dress3",
             "image":"/images/item3.jpg",
             "title":"Casual Blazer",
             "description":"Men Navy Blue & Beige Slim Fit Checked Single Breasted Smart Casual Blazer",
@@ -25,7 +25,7 @@
             "price":"₹4829"
         },
         {
-            "_id":"item4",
+            "_id":"dress4",
             "image":"/images/item4.jpg",
             "title":"Casual Blazer",
             "description":"Navy Blue Regular Fit Single-Breasted Knitted Blazer",
@@ -33,7 +33,7 @@
             "price":"₹4999"
         },
         {
-            "_id":"item5",
+            "_id":"dress5",
             "image":"/images/item5.jpg",
             "title":"Black Top",
             "description":"Women Black Solid Fitted Top",
@@ -41,7 +41,7 @@
             "price":"₹3231"
         },
         {
-            "_id":"item6",
+            "_id":"dress6",
             "image":"/images/item6.jpg",
             "title":"Maxi Dress",
             "description":"Women Pink Self Design Maxi Dress",
@@ -49,7 +49,7 @@
             "price":"₹15000"
         },
         {
-            "_id":"item7",
+            "_id":"dress7",
             "image":"/images/item7.jpg",
             "title":"Formal Suit",
             "description":"Men Black Solid Slim-Fit Tuxedo 3-Piece Formal Suit",
@@ -57,7 +57,7 @@
             "price":"₹17995"
         },
         {
-            "_id":"item8",
+            "_id":"dress8",
             "image":"/images/item8.jpg",
             "title":"Formal Suit",
             "description":"Men Grey Self-Design Slim-Fit Single-Breasted Formal Suit",
@@ -65,7 +65,7 @@
             "price":"₹21249"
         },
         {
-            "_id":"item9",
+            "_id":"dress9",
             "image":"/images/item9.jpg",
             "title":"Printed Straight Kurta",
             "description":"Women Pink & White Printed Straight Kurta",
